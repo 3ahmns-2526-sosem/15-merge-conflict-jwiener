@@ -1,6 +1,7 @@
 # Merge Conflict
 
 ## Kurzbeschreibung
+Dieses Projekt wurde online auf GitHub bearbeitet.
 
 ## Zielplattform
 
