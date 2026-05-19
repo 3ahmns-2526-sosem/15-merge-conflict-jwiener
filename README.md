@@ -1,5 +1,8 @@
-# 15-helloGH-jwiener
+# Merge Conflict
 
-Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+## Kurzbeschreibung
 
-Hello GitHub: erstes Repository online angelegt.
+## Zielplattform
+
+## Screenshot
+![Screenshot](Assets/MyGame/Screenshots/screenshot.png)
