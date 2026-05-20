@@ -9,4 +9,4 @@ Der Merge Conflict wurde gelöst.
 ## Screenshot
 ![Screenshot](Assets/MyGame/Screenshots/screenshot.png)
 
-Eine lokale Änderung.
+Konflikt gelöst.
